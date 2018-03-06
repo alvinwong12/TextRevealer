@@ -6,5 +6,5 @@
     android:layout_height="match_parent"
     tools:context="alvinwong.textrevealer.MainActivity">
 
-    
+
 </android.support.constraint.ConstraintLayout>
